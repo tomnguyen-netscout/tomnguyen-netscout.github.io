@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:schema="http://schema.org/" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" version="2.0" xml:base="http://localhost:7996/de">
+  <channel>
+    <title>Recent content</title>
+    <link>http://localhost:7996/de</link>
+    <description/>
+    <language>de</language>
+    <pubDate>Mon, 07 Nov 2022 10:30:00 -0500</pubDate>
+
+    <item>
+  <title>Spend Less, Shop More, and Optimize the Online Store</title>
+  <link>http://localhost:7996/blog/spend-less-shop-more-and-optimize-online-store</link>
+  <description/>
+  <pubDate>Mon, 07 Nov 2022 15:30:00 +0000</pubDate>
+                            <dc:creator>Brooke.Jameson</dc:creator>
+                            <guid isPermaLink="false">93692 at http://localhost:7996</guid>
+                            </item>
+<item>
+  <title>Channel Reward Incentive Program</title>
+  <link>http://localhost:7996/partners/channel-rewards</link>
+  <description/>
+  <pubDate>Fri, 04 Nov 2022 17:53:28 +0000</pubDate>
+                            <dc:creator>jenny.panighetti</dc:creator>
+                            <guid isPermaLink="false">93691 at http://localhost:7996</guid>
+                            </item>
+<item>
+  <title>Visibilität mit TAP’s – ja aber bitte effizient!</title>
+  <link>http://localhost:7996/webinars/visibility-with-tap</link>
+  <description/>
+  <pubDate>Fri, 04 Nov 2022 15:58:55 +0000</pubDate>
+                            <dc:creator>ervin.cao</dc:creator>
+                            <guid isPermaLink="false">93690 at http://localhost:7996</guid>
+                            </item>
+<item>
+  <title>Cybersecurity in the U.S. 2022 Midterm Elections</title>
+  <link>http://localhost:7996/blog/cybersecurity-us-2022-midterm-elections</link>
+  <description/>
+  <pubDate>Thu, 03 Nov 2022 13:00:00 +0000</pubDate>
+                            <dc:creator>NETSCOUT</dc:creator>
+                            <guid isPermaLink="false">93688 at http://localhost:7996</guid>
+                            </item>
+<item>
+  <title>Monitoring the Network Edge: Extend Visibility, Exert Control, and Enhance Service</title>
+  <link>http://localhost:7996/whitepapers/idc-monitoring-the-network-edge</link>
+  <description/>
+  <pubDate>Wed, 02 Nov 2022 18:05:44 +0000</pubDate>
+                            <dc:creator>ervin.cao</dc:creator>
+                            <guid isPermaLink="false">93687 at http://localhost:7996</guid>
+                            </item>
+<item>
+  <title>Pharmaceutical Leaders Under the Microscope</title>
+  <link>http://localhost:7996/blog/pharmaceutical-leaders-under-microscope</link>
+  <description/>
+  <pubDate>Wed, 02 Nov 2022 12:00:00 +0000</pubDate>
+                            <dc:creator>Brooke.Jameson</dc:creator>
+                            <guid isPermaLink="false">93683 at http://localhost:7996</guid>
+                            </item>
+<item>
+  <title>Thank You - Monitoring the Network Edge: Extend Visibility, Exert Control, and Enhance Service</title>
+  <link>http://localhost:7996/thank-you-white-paper-idc-spotlight-monitoring-network-edge</link>
+  <description/>
+  <pubDate>Tue, 01 Nov 2022 17:01:56 +0000</pubDate>
+                            <dc:creator>ervin.cao</dc:creator>
+                            <guid isPermaLink="false">93685 at http://localhost:7996</guid>
+                            </item>
+<item>
+  <title>Parallel Battlegrounds</title>
+  <link>http://localhost:7996/blog/parallel-battlegrounds</link>
+  <description/>
+  <pubDate>Tue, 01 Nov 2022 15:00:00 +0000</pubDate>
+                            <dc:creator>NETSCOUT</dc:creator>
+                            <guid isPermaLink="false">93684 at http://localhost:7996</guid>
+                            </item>
+<item>
+  <title>Prevention or Detection: Which Is More Important for Defending Your Network?</title>
+  <link>http://localhost:7996/blog/prevention-or-detection-which-more-important-defending-your</link>
+  <description/>
+  <pubDate>Fri, 28 Oct 2022 12:00:00 +0000</pubDate>
+                            <dc:creator>Erik.Hjelmstad</dc:creator>
+                            <guid isPermaLink="false">93680 at http://localhost:7996</guid>
+                            </item>
+<item>
+  <title>Frost &amp; Sullivan Names NETSCOUT 2022 Global Company of the Year </title>
+  <link>http://localhost:7996/blog/frost-sullivan-names-netscout-2022-global-company-year</link>
+  <description/>
+  <pubDate>Thu, 27 Oct 2022 14:00:00 +0000</pubDate>
+                            <dc:creator>Agnes.Mends-Crentsil</dc:creator>
+                            <guid isPermaLink="false">93679 at http://localhost:7996</guid>
+                            </item>
+<item>
+  <title>NETSCOUT Reports Second Quarter Fiscal Year 2023 Financial Results</title>
+  <link>http://localhost:7996/press-releases/netscout-reports-second-quarter-fiscal-year-2023-financial</link>
+  <description/>
+  <pubDate>Thu, 27 Oct 2022 13:00:00 +0000</pubDate>
+                            <dc:creator>jenny.panighetti</dc:creator>
+                            <guid isPermaLink="false">93681 at http://localhost:7996</guid>
+                            </item>
+<item>
+  <title>The Value of Applied DDoS Threat Intelligence</title>
+  <link>http://localhost:7996/webinars/the-value-of-applied-ddos-threat-intelligence</link>
+  <description/>
+  <pubDate>Wed, 26 Oct 2022 15:45:42 +0000</pubDate>
+                            <dc:creator>ervin.cao</dc:creator>
+                            <guid isPermaLink="false">93678 at http://localhost:7996</guid>
+                            </item>
+<item>
+  <title>Omnis RAN Analytics</title>
+  <link>http://localhost:7996/product/omnis-ran-analytics</link>
+  <description/>
+  <pubDate>Tue, 25 Oct 2022 19:48:26 +0000</pubDate>
+                            <dc:creator>ervin.cao</dc:creator>
+                            <guid isPermaLink="false">93677 at http://localhost:7996</guid>
+                            </item>
+<item>
+  <title>Radio Access Network Monitoring and Troubleshooting</title>
+  <link>http://localhost:7996/solutions/radio-access-network-monitoring</link>
+  <description/>
+  <pubDate>Tue, 25 Oct 2022 19:09:24 +0000</pubDate>
+                            <dc:creator>ervin.cao</dc:creator>
+                            <guid isPermaLink="false">93676 at http://localhost:7996</guid>
+                            </item>
+<item>
+  <title>RAN Optimization &amp; Automation: Carrier-Ready, Future-Proof Evolution </title>
+  <link>http://localhost:7996/solutions/ran-network-solutions</link>
+  <description/>
+  <pubDate>Tue, 25 Oct 2022 18:25:35 +0000</pubDate>
+                            <dc:creator>ervin.cao</dc:creator>
+                            <guid isPermaLink="false">93675 at http://localhost:7996</guid>
+                            </item>
+<item>
+  <title>Inspiring Interns: Guardians of the Connected World</title>
+  <link>http://localhost:7996/blog/inspiring-interns-guardians-connected-world-three</link>
+  <description/>
+  <pubDate>Tue, 25 Oct 2022 17:30:00 +0000</pubDate>
+                            <dc:creator>NETSCOUT</dc:creator>
+                            <guid isPermaLink="false">93673 at http://localhost:7996</guid>
+                            </item>
+<item>
+  <title>Current DDoS Attack Trends and Best Defenses</title>
+  <link>http://localhost:7996/blog/current-ddos-attack-trends-and-best-defenses</link>
+  <description/>
+  <pubDate>Mon, 24 Oct 2022 17:45:00 +0000</pubDate>
+                            <dc:creator>tricia.collins</dc:creator>
+                            <guid isPermaLink="false">93672 at http://localhost:7996</guid>
+                            </item>
+<item>
+  <title>Visibilität in der Cloud – von Azur über K8s bis VMWare</title>
+  <link>http://localhost:7996/webinars/visibilit%C3%A4t-in-der-cloud</link>
+  <description/>
+  <pubDate>Fri, 21 Oct 2022 16:00:39 +0000</pubDate>
+                            <dc:creator>ervin.cao</dc:creator>
+                            <guid isPermaLink="false">93671 at http://localhost:7996</guid>
+                            </item>
+<item>
+  <title>Rethinking DDoS Defenses</title>
+  <link>http://localhost:7996/blog/rethinking-ddos-defenses</link>
+  <description/>
+  <pubDate>Fri, 21 Oct 2022 12:00:00 +0000</pubDate>
+                            <dc:creator>tricia.collins</dc:creator>
+                            <guid isPermaLink="false">93665 at http://localhost:7996</guid>
+                            </item>
+<item>
+  <title>AWS re:Invent 2022</title>
+  <link>http://localhost:7996/events/AWS-re-invent-2022</link>
+  <description/>
+  <pubDate>Thu, 20 Oct 2022 19:29:14 +0000</pubDate>
+                            <dc:creator>ervin.cao</dc:creator>
+                            <guid isPermaLink="false">93670 at http://localhost:7996</guid>
+                            </item>
+<item>
+  <title>Is Network Slicing the Next Generation of Revenue Streaming?</title>
+  <link>http://localhost:7996/blog/network-slicing-next-generation-revenue-streaming</link>
+  <description/>
+  <pubDate>Thu, 20 Oct 2022 15:50:00 +0000</pubDate>
+                            <dc:creator>lauren.womack</dc:creator>
+                            <guid isPermaLink="false">93664 at http://localhost:7996</guid>
+                            </item>
+<item>
+  <title>Comprehensive DDoS Protection</title>
+  <link>http://localhost:7996/campaign/comprehensive-ddos</link>
+  <description/>
+  <pubDate>Wed, 19 Oct 2022 20:02:18 +0000</pubDate>
+                            <dc:creator>jenny.panighetti</dc:creator>
+                            <guid isPermaLink="false">93667 at http://localhost:7996</guid>
+                            </item>
+<item>
+  <title>An Ounce of Prevention Is Worth a Pound of Cure</title>
+  <link>http://localhost:7996/blog/ounce-prevention-worth-pound-cure</link>
+  <description/>
+  <pubDate>Wed, 19 Oct 2022 16:15:00 +0000</pubDate>
+                            <dc:creator>Eileen.Haggerty</dc:creator>
+                            <guid isPermaLink="false">93661 at http://localhost:7996</guid>
+                            </item>
+<item>
+  <title>Thank You - AWS re:Invent 2022</title>
+  <link>http://localhost:7996/thank-you-event-aws-re-invent-2022</link>
+  <description/>
+  <pubDate>Tue, 18 Oct 2022 21:29:58 +0000</pubDate>
+                            <dc:creator>ervin.cao</dc:creator>
+                            <guid isPermaLink="false">93663 at http://localhost:7996</guid>
+                            </item>
+<item>
+  <title>Visibility Drives Security</title>
+  <link>http://localhost:7996/wsj/visibility-drives-security</link>
+  <description/>
+  <pubDate>Tue, 18 Oct 2022 18:15:20 +0000</pubDate>
+                            <dc:creator>jenny.panighetti</dc:creator>
+                            <guid isPermaLink="false">93662 at http://localhost:7996</guid>
+                            </item>
+
+  </channel>
+</rss>

@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:schema="http://schema.org/" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" version="2.0" xml:base="http://localhost:7996/de">
+  <channel>
+    <title>Business Continuity Resources</title>
+    <link>http://localhost:7996/de</link>
+    <description/>
+    <language>de</language>
+    <pubDate>Wed, 17 Mar 2021 08:00:00 -0400</pubDate>
+
+    <item>
+  <title>Case Study: Medical Supplier Gains Complete Visibility Into Distribution Facilities With NETSCOUT</title>
+  <link>http://localhost:7996/case-studies/medical-supplier-gains-complete-visibility-distribution</link>
+  <description>Assures Business Operations Across On-Premises and Virtual Environments</description>
+  <pubDate>Wed, 17 Mar 2021 12:00:00 +0000</pubDate>
+                            <dc:creator>Tim Boutin</dc:creator>
+                            <guid isPermaLink="false">116446</guid>
+                            </item>
+<item>
+  <title>Case Study: Visualizing Remote User Experience With NETSCOUT</title>
+  <link>http://localhost:7996/case-studies/visualizing-remote-user-experience</link>
+  <description>Manufacturer Assures Service Delivery Across Remote Office, VPN &amp; ISP, and Virtual Application Service Edges</description>
+  <pubDate>Fri, 19 Feb 2021 12:00:00 +0000</pubDate>
+                            <dc:creator>NETSCOUT</dc:creator>
+                            <guid isPermaLink="false">116051</guid>
+                            </item>
+<item>
+  <title>Case Study: Smart City Sustains Technology Innovation and Hybrid Workforce Performance With NETSCOUT</title>
+  <link>http://localhost:7996/case-studies/city-sustains-innovation-and-performance-netscout</link>
+  <description>This U.S. City assured their Data Center &amp; Network Transformation and Azure Cloud Migration with Smart Visibility</description>
+  <pubDate>Wed, 10 Feb 2021 12:00:00 +0000</pubDate>
+                            <dc:creator>Tim Boutin</dc:creator>
+                            <guid isPermaLink="false">115961</guid>
+                            </item>
+<item>
+  <title>Case Study: Large Public School District Ensures Quality Student Learning Experience With NETSCOUT</title>
+  <link>http://localhost:7996/case-studies/network-quality-remote-learning</link>
+  <description>Learn how this school district leveraged nGeniusONE for assuring remote learning services for students and teachers.</description>
+  <pubDate>Thu, 28 Jan 2021 12:00:00 +0000</pubDate>
+                            <dc:creator>David Vanvalkenburg</dc:creator>
+                            <guid isPermaLink="false">115526</guid>
+                            </item>
+<item>
+  <title>Case Study: Large Public School District Ensures Quality Student Learning Experience With NETSCOUT</title>
+  <link>http://localhost:7996/case-studies/assuring-quality-student-remote-learning</link>
+  <description>Learn how this school district leveraged nGeniusONE for assuring remote learning services for students and teachers.</description>
+  <pubDate>Thu, 28 Jan 2021 12:00:00 +0000</pubDate>
+                            <dc:creator>David Vanvalkenburg</dc:creator>
+                            <guid isPermaLink="false">115526</guid>
+                            </item>
+<item>
+  <title>Case Study: U.S. University Hospital Improves Visibility for Quality Application Assurance With NETSCOUT</title>
+  <link>http://localhost:7996/case-studies/hospital-improves-application-visibility</link>
+  <description>Read how this U.S. Universal Hospital selected NETSCOUT to improve visibility into clinical application performance.</description>
+  <pubDate>Mon, 16 Nov 2020 12:00:00 +0000</pubDate>
+                            <dc:creator>Tim Boutin</dc:creator>
+                            <guid isPermaLink="false">114096</guid>
+                            </item>
+<item>
+  <title>Blog: Financial Services Company Improves User Experience While Planning Digital Transformation</title>
+  <link>https://www.netscout.com/blog/financial-services-company-digital-transformation</link>
+  <description>A large financial services company with recent digital transformations in its data center, virtualization capabilities, and cloud infrastructure needed a way to pinpoint end-user performance issues with Citrix and voice services.</description>
+  <pubDate>Thu, 29 Oct 2020 12:00:00 +0000</pubDate>
+                            <dc:creator>Eileen Haggerty</dc:creator>
+                            <guid isPermaLink="false">113731</guid>
+                            </item>
+<item>
+  <title>Article: Information security during COVID-19 and the era of remote care: Challenges and safety measures for health systems</title>
+  <link>http://localhost:7996/sites/default/files/2020-11/Healthcare_Product_Review_Reprint_10.23-no%20ads.pdf</link>
+  <description>Becker’s Hospital Review highlights the need for DDoS protection to maintain the availability of healthcare systems.</description>
+  <pubDate>Fri, 23 Oct 2020 12:00:00 +0000</pubDate>
+                            <dc:creator>Tom Bienkowski</dc:creator>
+                            <guid isPermaLink="false">113791</guid>
+                            </item>
+<item>
+  <title>Blog: Here’s How DDoS Attackers Exploited a Pandemic</title>
+  <link>https://www.netscout.com/blog/heres-how-ddos-attackers-exploited-pandemic</link>
+  <description>A new Threat Intelligence Report infographic connects the dots to show just how motivated attackers exploit global pandemic vulnerabilities</description>
+  <pubDate>Mon, 19 Oct 2020 12:00:00 +0000</pubDate>
+                            <dc:creator>NETSCOUT</dc:creator>
+                            <guid isPermaLink="false">113256</guid>
+                            </item>
+<item>
+  <title>Blog: Healthy Connectivity: The Key to Telehealth and Telemedicine</title>
+  <link>https://www.netscout.com/blog/healthy-connectivity-key-telehealth-and-telemedicine</link>
+  <description>With growing reliance on remote medical care, it is more critical than ever to assure network performance.</description>
+  <pubDate>Mon, 21 Sep 2020 12:00:00 +0000</pubDate>
+                            <dc:creator>Steve Horneman</dc:creator>
+                            <guid isPermaLink="false">111981</guid>
+                            </item>
+<item>
+  <title>Video: NETSCOUT VPN Performance Monitoring</title>
+  <link>https://videos.netscout.com/watch/iScYCLMfJXKS3y4e8EPTid</link>
+  <description>With the VPN more crucial to the success of your business today than ever before to ensure productivity of your employees and fast and efficient customer service. Visibility from NETSCOUT will help assure you have the information you need to maintain the performance and availability of this crucial network resource.</description>
+  <pubDate>Tue, 15 Sep 2020 12:00:00 +0000</pubDate>
+                            <dc:creator>Eileen Haggerty</dc:creator>
+                            <guid isPermaLink="false">111821</guid>
+                            </item>
+<item>
+  <title>Case Study: Accelerating Data Center Transformation and Maintaining Business Continuity with NETSCOUT</title>
+  <link>http://localhost:7996/sites/default/files/2020-08/ECS_274_EN-2001%20Financial%20Maintains%20Business%20Continuity%20With%20NTCT.pdf</link>
+  <description>Brings Essential Visibility Into Co-Lo, Multi-Cloud, Cisco UC&amp;C, and VPN/VDI Services</description>
+  <pubDate>Mon, 24 Aug 2020 12:00:00 +0000</pubDate>
+                            <dc:creator>Tim Boutin</dc:creator>
+                            <guid isPermaLink="false">111241</guid>
+                            </item>
+<item>
+  <title>Case Study: Improving Reliability of Business-Critical Apps With NETSCOUT Visibility</title>
+  <link>http://localhost:7996/case-studies/Improving-Reliability-of-Business-Critical-Apps</link>
+  <description>This Case Study describes how a leading Insurer provided visibility into Citrix application performance that had eluded IT for 18 months.</description>
+  <pubDate>Wed, 12 Aug 2020 12:00:00 +0000</pubDate>
+                            <dc:creator>Tim Boutin</dc:creator>
+                            <guid isPermaLink="false">111066</guid>
+                            </item>
+<item>
+  <title>FAQ: 5 Questions to Ensure Seamless Work From Home user Experience</title>
+  <link>http://localhost:7996/sites/default/files/2020-08/NETSCOUT_5_Questions_to_Ensure_Seamless_Work-From-Home.pdf</link>
+  <description>Asking and answering these questions and discovering where an organization may lack visibility to get the answers, is critical for the ability to support remote users.</description>
+  <pubDate>Thu, 06 Aug 2020 12:00:00 +0000</pubDate>
+                            <dc:creator>Betty Braden-Navarro</dc:creator>
+                            <guid isPermaLink="false">110941</guid>
+                            </item>
+<item>
+  <title>Video: Maintain Visibility Into VPN Services to Make Better Decisions</title>
+  <link>https://videos.netscout.com/watch/ek11r6VXdzMyYuPDhPP1rF</link>
+  <description>The world as we know it has changed significantly. On an average day, companies worldwide depend on their Virtual Private Networks (VPNs) for remote employees like sales, customer service reps, field technicians, and others, to connect back to corporate data centers to access business applications to perform their jobs.
+
+To provide insight, Paul Barrett joined Dave Vellante for a conversation around how IT professionals are tasked with the responsibility of maintaining business continuity and ensuring employees have access to the services and applications they need to do their jobs.  This dynamic is placing a tremendous amount of emphasis and stress on VPN connections.  This conversation explores virtual private network (VPN) service performance.</description>
+  <pubDate>Mon, 27 Jul 2020 12:00:00 +0000</pubDate>
+                            <dc:creator>Steve Horneman</dc:creator>
+                            <guid isPermaLink="false">109531</guid>
+                            </item>
+<item>
+  <title>White Paper: Perimeter Protection and Control - The Key to Business Continuity</title>
+  <link>http://localhost:7996/sites/default/files/2020-07/SECWP_017_EN-2001%20-%20Perimeter%20Protection%20and%20Control%20The%20Key%20to%20BC.pdf</link>
+  <description>Ensuring that defenses can identify and mitigate sophisticated DDoS attacks quickly is now essential. Cloud based services offer a valuable layer of defense, but they aren’t focused enough to deliver the protection we need on their own. Intelligently automated on-premise Arbor Edge Defense (AED) is a proven solution that delivers the protection usinesses need today.</description>
+  <pubDate>Thu, 23 Jul 2020 12:00:00 +0000</pubDate>
+                            <dc:creator>Tom Bienkowski</dc:creator>
+                            <guid isPermaLink="false">109491</guid>
+                            </item>
+<item>
+  <title>Case Study: Healthcare Improves Telemedicine Patient Experience With NETSCOUT</title>
+  <link>http://localhost:7996/case-studies/healthcare-improves-telemedicine-patient-experience</link>
+  <description>Patients and Home-Based Employees Benefit From nGeniusONE Visibility Into Performance Problems</description>
+  <pubDate>Thu, 25 Jun 2020 12:00:00 +0000</pubDate>
+                            <dc:creator>Eileen Haggerty</dc:creator>
+                            <guid isPermaLink="false">109076</guid>
+                            </item>
+<item>
+  <title>Video: One Smart Question: Why Do I Need Arbor Edge Defense On-Premise to Protect My VPN Gateway From DDoS Attacks?</title>
+  <link>https://videos.netscout.com/watch/WPwz43MPWr5J6kAHEyznip</link>
+  <description>The VPN gateway (as well as other stateful devices such as firewalls and load balancers) are critical pieces of technology that enable work/learn from home scenarios.  Relying exclusively upon a cloud-based DDoS protection service to protect the availability of a VPN gateway is risky, as these services will find it difficult to detect and stop such attacks before the damage is done.  Learn why a stateless, on-premise solution, such as NETSCOUT Arbor Edge Defense, is required to protect the VPN gateway from DDoS attacks.</description>
+  <pubDate>Tue, 23 Jun 2020 12:00:00 +0000</pubDate>
+                            <dc:creator>Tom Bienkowski</dc:creator>
+                            <guid isPermaLink="false">109001</guid>
+                            </item>
+<item>
+  <title>Case Study: NETSCOUT Visibility Assures End‑User Experience With CCaaS</title>
+  <link>http://localhost:7996/case-studies/netscout-visibility-assures-end-user-experience</link>
+  <description>Leading UC Technology Provider and Business Process Outsourcer Partnership Leverages nGeniusONE for Service Delivery Quality</description>
+  <pubDate>Mon, 22 Jun 2020 12:00:00 +0000</pubDate>
+                            <dc:creator>Tim Boutin</dc:creator>
+                            <guid isPermaLink="false">108986</guid>
+                            </item>
+<item>
+  <title>Use Case: Assuring VPN Business Continuity and Remote Services Availability</title>
+  <link>http://localhost:7996/sites/default/files/2020-06/EUC_026_EN-2001%20-%20Assuring%20VPN%20Business%20Continuity%20and%20Remote%20Services.pdf</link>
+  <description>This Use Case focuses on how information technology (IT) teams are able to assure high-quality customer service delivery for their remote Call Center Agents.</description>
+  <pubDate>Wed, 17 Jun 2020 12:00:00 +0000</pubDate>
+                            <dc:creator>Tim Boutin</dc:creator>
+                            <guid isPermaLink="false">108906</guid>
+                            </item>
+<item>
+  <title>Blog: Why Does My Video Conference Look So Grainy?</title>
+  <link>https://www.netscout.com/blog/why-does-my-video-conference-look-so-grainy</link>
+  <description>Take these steps to ensure your UC&amp;C services are working optimally.</description>
+  <pubDate>Mon, 15 Jun 2020 12:00:00 +0000</pubDate>
+                            <dc:creator>NETSCOUT</dc:creator>
+                            <guid isPermaLink="false">108896</guid>
+                            </item>
+<item>
+  <title>Video: Unified Communications Monitoring in an Encrypted World</title>
+  <link>https://videos.netscout.com/watch/3xzZUYdM8B5T7v47eiykiA</link>
+  <description>Solution Architect Ray Krug from NETSCOUT shares how NETSCOUT Smart Data can provide critical insights even for encrypted traffic.  Ray discusses how NETSCOUT utilizes header information to calculate powerful metrics even in SRTP and achievable work arounds by using IP addresses and subnets when dealing with encrypted signaling or leveraging APIs for Microsoft or nGenius UC Collectors for Cisco or decrypting with keys or even leveraging an in-line nGenius Decryption Appliance to get the visibility you need.</description>
+  <pubDate>Thu, 11 Jun 2020 12:00:00 +0000</pubDate>
+                            <dc:creator>NETSCOUT</dc:creator>
+                            <guid isPermaLink="false">108831</guid>
+                            </item>
+<item>
+  <title>Video: Gain IT Visibility from Remote Sites with nGeniusPULSE</title>
+  <link>https://videos.netscout.com/watch/PGoPbNUj2jA6MQWsDEfGNt</link>
+  <description>Gain visibility from virtually anywhere to ensure users can connect and use business services to do their job. nGeniusPULSE monitors your business-critical services including SaaS, cloud, Wi-Fi, and infrastructure health from anywhere your users are located.</description>
+  <pubDate>Thu, 11 Jun 2020 12:00:00 +0000</pubDate>
+                            <dc:creator>Betty Braden-Navarro</dc:creator>
+                            <guid isPermaLink="false">108811</guid>
+                            </item>
+<item>
+  <title>Case Study: Government Agency Gains Network Edge Visibility to Manage Co-Lo and Office 365 Rollouts</title>
+  <link>http://localhost:7996/case-studies/government-agency-gains-network-edge-visibility</link>
+  <description>Improved Remote Access to Business Productivity Resources Aids Remote Workforce Transitions</description>
+  <pubDate>Tue, 09 Jun 2020 12:00:00 +0000</pubDate>
+                            <dc:creator>Tim Boutin</dc:creator>
+                            <guid isPermaLink="false">108676</guid>
+                            </item>
+<item>
+  <title>Case Study: Leading Energy Company Powers Overnight Transition to Remote Business Operations With NETSCOUT</title>
+  <link>http://localhost:7996/case-studies/netscout-assures-uninterrupted-power-delivery</link>
+  <description>NETSCOUT Assures Uninterrupted Power Delivery, High-Quality Service for Customers Impacted by COVID-19</description>
+  <pubDate>Tue, 26 May 2020 12:00:00 +0000</pubDate>
+                            <dc:creator>Tim Boutin</dc:creator>
+                            <guid isPermaLink="false">108406</guid>
+                            </item>
+
+  </channel>
+</rss>

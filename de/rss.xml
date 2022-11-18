@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:schema="http://schema.org/" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" version="2.0" xml:base="http://localhost:7996/de">
+  <channel>
+    <title>NETSCOUT</title>
+    <link>http://localhost:7996/de</link>
+    <description/>
+    <language>de</language>
+    <pubDate>Wed, 17 Nov 2021 11:37:21 -0500</pubDate>
+
+    <item>
+  <title>Ransomware-Banden feiern Erfolge mit Dreifach-Erpressungstaktiken</title>
+  <link>http://localhost:7996/de/blog/ransomware-banden-feiern-erfolge-mit-dreifach</link>
+  <description>Cyberkriminelle haben durch die Kombination von Verschlüsselung, Datenraub und DDoS-Angriffen den Ransomware-Hattrick gelandet.
+</description>
+  <pubDate>Wed, 17 Nov 2021 11:37:21 -0500</pubDate>
+                            <dc:creator>Jenny Panighetti</dc:creator>
+                            <enclosure url="http://localhost:7996/sites/default/files/2021-05/26/images/ransomware-3x-blog-header_1600x900.jpg" length="237214" type="image/jpeg"/>
+    <guid isPermaLink="true">http://localhost:7996/de/blog/ransomware-banden-feiern-erfolge-mit-dreifach</guid>
+                            </item>
+
+  </channel>
+</rss>
