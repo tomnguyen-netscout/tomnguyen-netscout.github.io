@@ -1,0 +1,1 @@
+.ns-list__comma li{display:inline-flex}.ns-list__comma li:after{content:", "}.ns-list__comma li:last-child:after{content:none}.tile__content .ns-list__comma{display:inline;margin-left:10px}

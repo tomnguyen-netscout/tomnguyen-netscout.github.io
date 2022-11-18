@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="100px" height="100px" viewBox="0 0 100 100" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 40.1 (33804) - http://www.bohemiancoding.com/sketch -->
+    <title>Artboard</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0.0175555556" y="0" width="73.9648889" height="97"></rect>
+        <mask id="mask-2" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="73.9648889" height="97" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard" stroke="#53565A">
+            <g id="Group" transform="translate(13.000000, 1.000000)">
+                <use id="Rectangle-path" mask="url(#mask-2)" stroke-width="8" xlink:href="#path-1"></use>
+                <g transform="translate(11.666667, 15.760870)" stroke-width="4">
+                    <rect id="Rectangle-path" x="0.206888889" y="0.182978261" width="19.5594444" height="26.0423913"></rect>
+                    <path d="M33.3492222,0 L50.4597778,0" id="Shape"></path>
+                    <path d="M33.3492222,13 L50.4597778,13" id="Shape"></path>
+                    <path d="M33.3492222,26 L50.4597778,26" id="Shape"></path>
+                    <path d="M0.206888889,39 L50.4597778,39" id="Shape"></path>
+                    <path d="M0.206888889,52 L50.4597778,52" id="Shape"></path>
+                    <path d="M0.206888889,65 L50.4597778,65" id="Shape"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
