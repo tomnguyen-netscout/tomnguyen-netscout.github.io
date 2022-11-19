@@ -1,0 +1,15 @@
+.layout-container {
+  padding-top: 0 !important;
+}
+
+.layout-container .header {
+  display: none;
+}
+
+.layout-container .region-breadcrumb {
+  display: none;
+}
+
+.header__burger {
+  display: none;
+}

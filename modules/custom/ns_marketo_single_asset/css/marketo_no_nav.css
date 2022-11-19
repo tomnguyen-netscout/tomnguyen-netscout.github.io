@@ -1,0 +1,20 @@
+.page-node-type-marketo-sa .layout-container {
+  padding-top: 0 !important;
+}
+
+.page-node-type-marketo-sa .layout-container .header {
+  display: none;
+  margin-top: 0;
+}
+
+.page-node-type-marketo-sa .layout-container .header__nav {
+  display: none;
+}
+
+.page-node-type-marketo-sa .layout-container .footer {
+  display: none;
+}
+
+.page-node-type-marketo-sa .layout-container .region-breadcrumb {
+  display: none;
+}

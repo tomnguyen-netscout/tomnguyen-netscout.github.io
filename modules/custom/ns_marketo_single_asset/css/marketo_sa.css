@@ -1,0 +1,110 @@
+.node--type-marketo-sa .eck-header-logo-with-cta {
+  padding-left: 0;
+  padding-right: 0;
+}
+
+.marketo-sa-header {
+  padding: 1rem 0;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.marketo-sa-header > div {
+  flex-grow: 0;
+  flex-shrink: 0;
+  flex-basis: auto;
+}
+
+.marketo-sa-header > div.header__logo img {
+  height: 21px;
+}
+
+.page-node-type-marketo-sa .header-cta {
+  margin: 0 auto;
+}
+
+@media screen and (min-width: 768px) {
+  .marketo-sa-header > div.header__logo img {
+    height: 28px;
+  }
+}
+
+.page-node-type-marketo-sa .banner__image {
+  z-index: -1;
+}
+
+.page-node-type-marketo-sa .banner__content {
+  padding: 60px 20px 135px;
+}
+
+.marketo-sa-body-container {
+  margin-top: -125px;
+  background-color: #ffffff;
+  z-index: 1;
+}
+
+.marketo-sa-col-container-left,
+.marketo-sa-col-container-right {
+  padding: 2rem 3rem !important;
+}
+
+.marketo-sa-col-container-left figure {
+  padding-bottom: 25px;
+}
+
+.marketo-sa-col-container-left figure img {
+  box-shadow: 5px 5px 0 0 rgba(0,0,0,.1);
+}
+
+@media screen and (min-width: 800px) {
+  .marketo-sa-col-container-left {
+    padding: 2rem 2rem 2rem 4rem !important;
+  }
+  .marketo-sa-col-container-right {
+    padding: 2rem 4rem 2rem 2rem !important;
+  }
+  .marketo-sa-col-container-left figure {
+    padding-right: 2rem;
+    padding-bottom: 0;
+  }
+}
+
+.marketo-sa-form {
+  background-color: #eff0f0;
+  padding: 1.5rem !important;
+}
+
+@media screen and (min-width:1000px) {
+  .marketo-sa-form {
+    padding: 2rem 3rem !important;
+  }
+}
+
+form.mktoForm label.mktoLabel {
+  padding-bottom: 12px;
+}
+
+form.mktoForm input[type='email'],
+form.mktoForm input[type='text'],
+form.mktoForm input[type='tel'],
+.marketo-sa-form form.mktoForm select {
+  box-sizing: border-box;
+  padding: 1rem !important;
+  border: 1px solid #babbbd !important;
+}
+
+form.mktoForm .mktoField {
+  border-bottom: none !important;
+}
+
+.marketo-sa-form .mktoForm select.mktoField {
+  -webkit-appearance: menulist;
+  background-image: none;
+}
+
+form.mktoForm .mktoButtonWrap {
+  display: block;
+}
